@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="128.2.177.251" id="2e81a4b6-77f2-4b75-804f-ffcf4595578f" port="22" customName="nsh1609_server2" nameFormat="CUSTOM" username="siminl" useOpenSSHConfig="true">
+        <option name="customName" value="nsh1609_server2" />
+      </sshConfig>
+    </configs>
+  </component>
+</project>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="af89d972-d30a-49a3-a8c4-e4732b8a6579" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectId" id="1xuEZv5V6ieApOBM9xaPimFTtQF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File" value="Python" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/phi_designs" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/cmaes" />
+      <recent name="$PROJECT_DIR$/rollout_cbf_classes/deprecated" />
+      <recent name="$PROJECT_DIR$/rollout_cbf_classes" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af89d972-d30a-49a3-a8c4-e4732b8a6579" name="Default Changelist" comment="" />
+      <created>1631196631573</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1631196631573</updated>
+      <workItem from="1631196657722" duration="52008000" />
+      <workItem from="1631628541958" duration="12210000" />
+      <workItem from="1632102927249" duration="201945000" />
+      <workItem from="1634332522330" duration="121111000" />
+      <workItem from="1635814802399" duration="60380000" />
+      <workItem from="1637085165445" duration="38795000" />
+      <workItem from="1637726018388" duration="3461000" />
+      <workItem from="1638160059593" duration="566000" />
+      <workItem from="1638936140395" duration="2449000" />
+      <workItem from="1639080078514" duration="647000" />
+      <workItem from="1639082012341" duration="4629000" />
+      <workItem from="1639280059938" duration="532000" />
+      <workItem from="1639614425656" duration="4675000" />
+      <workItem from="1639677518223" duration="10320000" />
+      <workItem from="1639772241719" duration="9537000" />
+      <workItem from="1639786845938" duration="6479000" />
+      <workItem from="1640189975743" duration="17250000" />
+      <workItem from="1640732034699" duration="3718000" />
+      <workItem from="1640737523006" duration="222000" />
+      <workItem from="1640738160424" duration="35000" />
+      <workItem from="1640810760347" duration="53885000" />
+      <workItem from="1641352861715" duration="34951000" />
+      <workItem from="1642025724437" duration="21259000" />
+      <workItem from="1642353915915" duration="144403000" />
+      <workItem from="1644589811941" duration="1677000" />
+      <workItem from="1644611075717" duration="51769000" />
+      <workItem from="1645281835940" duration="2073000" />
+      <workItem from="1645401533014" duration="41717000" />
+      <workItem from="1645801070901" duration="4362000" />
+      <workItem from="1645819617945" duration="8127000" />
+      <workItem from="1646408822533" duration="52555000" />
+      <workItem from="1647269070247" duration="31674000" />
+      <workItem from="1647621479083" duration="217415000" />
+      <workItem from="1650038657012" duration="37511000" />
+      <workItem from="1650465413699" duration="18570000" />
+      <workItem from="1650637606187" duration="1851000" />
+      <workItem from="1650640679109" duration="10658000" />
+      <workItem from="1650735589065" duration="79883000" />
+      <workItem from="1651767509664" duration="90716000" />
+      <workItem from="1653485936916" duration="86738000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
